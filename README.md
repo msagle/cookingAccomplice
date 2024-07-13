@@ -1,5 +1,5 @@
 # cookingAccomplice
-I needed a personal project to work on, so I asked chatGPT for help... 
+I needed a personal project to work on, so I asked chatGPT for an idea... 
 
 ✨ *Sure! Here’s an idea for a full-stack coding project centered around cooking that focuses on personal management and is not social. This project will help users organize their cooking and meal planning activities efficiently, providing a comprehensive solution for managing recipes, meal plans, pantry items, and shopping lists:* ✨
 
