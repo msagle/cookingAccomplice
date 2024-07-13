@@ -7,7 +7,7 @@ I needed a personal project to work on, so I asked chatGPT for help...
 "Cooking Accomplice" is a web application designed to help users manage their cooking activities. Users can create personalized meal plans, generate shopping lists based on their recipes, track pantry items, and discover new recipes. The app will feature an intuitive interface for planning and organizing meals without social interaction.
 
 ### Frontend
-- **Tech Stack:** React, TypeScript
+**Tech Stack:** React, TypeScript
 - **Homepage:** Display an overview of the user's meal plan for the week, upcoming meals, and a search bar for recipes.
 - **Meal Plan Page:** Allow users to create and view their weekly meal plans.
 - **Recipe Detail Page:** Show details of a specific recipe, including ingredients, instructions, and nutritional information.
@@ -16,7 +16,7 @@ I needed a personal project to work on, so I asked chatGPT for help...
 - **Search and Filter:** Implement a search functionality with filters for cuisine type, dietary preferences, preparation time, etc.
 
 ### Backend
-- **Tech Stack:** Node.js, Express.js
+**Tech Stack:** Node.js, Express.js
 - **User Authentication:** Implement user signup, login, and authentication using JWT (JSON Web Tokens).
 - **Recipe Management:** Handle CRUD (Create, Read, Update, Delete) operations for recipes.
 - **Meal Plan Management:** Allow users to create, read, update, and delete their meal plans.
@@ -25,7 +25,7 @@ I needed a personal project to work on, so I asked chatGPT for help...
 - **Search Functionality:** Implement a search API that allows querying the recipe database based on various criteria.
 
 ### Database
-- **Tech Stack:** MongoDB (NoSQL)
+**Tech Stack:** MongoDB (NoSQL)
 - **Users Collection:** Store user information such as username, email, hashed password, profile picture, dietary preferences, etc.
 - **Recipes Collection:** Store recipe information including title, ingredients, instructions, nutritional information, etc.
 - **Meal Plans Collection:** Store user meal plans, linked by user ID.
