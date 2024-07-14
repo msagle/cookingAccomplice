@@ -1,7 +1,5 @@
 # cookingAccomplice
-I needed a personal project to work on, so I asked chatGPT for an idea... 
-
-✨ *Sure! Here’s an idea for a full-stack coding project centered around cooking that focuses on personal management and is not social. This project will help users organize their cooking and meal planning activities efficiently, providing a comprehensive solution for managing recipes, meal plans, pantry items, and shopping lists:* ✨
+I needed a personal project to work on and I'm trying to up my cooking abilities....
 
 ### Project Overview
 "Cooking Accomplice" is a web application designed to help users manage their cooking activities. Users can create personalized meal plans, generate shopping lists based on their recipes, track pantry items, and discover new recipes. The app will feature an intuitive interface for planning and organizing meals without social interaction.
